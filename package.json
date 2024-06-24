@@ -1,6 +1,6 @@
 {
-  "name": "bandcamp-scraper",
-  "version": "1.4.2",
+  "name": "@alexjorgef/bandcamp-scraper",
+  "version": "1.4.2-1",
   "description": "A scraper for https://bandcamp.com",
   "main": "lib/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/masterT/bandcamp-scraper"
+    "url": "git+https://github.com/masterT/bandcamp-scraper.git"
   },
   "author": "Simon Thiboutôt <salut@simonthiboutot.com> (http://simonthiboutot.com)",
   "license": "MIT",
@@ -31,7 +31,8 @@
     "tinyreq": "^3.2.5"
   },
   "directories": {
-    "example": "examples"
+    "example": "examples",
+    "lib": "lib"
   },
   "keywords": [
     "scraper",
