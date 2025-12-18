@@ -22,7 +22,7 @@
   },
   "title" : "album-info",
   "description" : "The JSON schema that matches album info.",
-  "id": "https://mastert.github.io/bandcamp-scraper/schemas/album-info.json",
+  "id": "https://alexjorgef.github.io/bandcamp-scraper/schemas/album-info.json",
   "type": "object",
   "additionalProperties": false,
   "properties": {

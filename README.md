@@ -1,8 +1,6 @@
 # bandcamp-scraper
 
-[![npm version](https://badge.fury.io/js/bandcamp-scraper.svg)](https://badge.fury.io/js/bandcamp-scraper)
-![Test](https://github.com/masterT/bandcamp-scraper/workflows/Test/badge.svg?event=push)
-![Test daily](https://github.com/masterT/bandcamp-scraper/workflows/Test/badge.svg?event=schedule)
+[![npm version](https://badge.fury.io/js/@alexjorgef%2Fbandcamp-scraper.svg)](https://badge.fury.io/js/@alexjorgef%2Fbandcamp-scraper)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 [![Bandcamp Logo](assets/bandcamp.png)](https://bandcamp.com)

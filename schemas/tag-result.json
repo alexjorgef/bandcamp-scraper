@@ -4,7 +4,7 @@
     "type": "object",
     "additionalProperties": false,
     "description": "The JSON schema that matches a tag result.",
-    "id": "https://mastert.github.io/bandcamp-scraper/schemas/tag-result.json",
+    "id": "https://alexjorgef.github.io/bandcamp-scraper/schemas/tag-result.json",
     "properties": {
         "name": {
             "type": "string"
