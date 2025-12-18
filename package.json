@@ -1,6 +1,6 @@
 {
   "name": "@alexjorgef/bandcamp-scraper",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "description": "A scraper for https://bandcamp.com",
   "main": "lib/index.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/alexjorgef/bandcamp-scraper.git"
   },
-  "author": "Simon Thiboutôt <salut@simonthiboutot.com> (http://simonthiboutot.com)",
+  "author": "Simon Thiboutôt <salut@simonthiboutot.com> (https://simonthiboutot.com/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/alexjorgef/bandcamp-scraper/issues"
@@ -23,9 +23,11 @@
     "standard": "^16.0.3"
   },
   "dependencies": {
-    "ajv": "^4.11.8",
-    "cheerio": "^0.22.0",
-    "json5": "^0.5.1",
+    "ajv": "^8.17.1",
+    "ajv-draft-04": "^1.0.0",
+    "ajv-formats": "^3.0.1",
+    "cheerio": "^1.1.2",
+    "json5": "^2.2.3",
     "linez": "^4.1.4",
     "scrape-it": "^3.3.2",
     "tinyreq": "^3.2.5"
